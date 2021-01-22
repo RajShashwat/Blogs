@@ -26,16 +26,13 @@ print(num)
 7
 ``` 
 
-
-
-![1_Qn_SpW-ON7oaHpOL3jUQAg.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1611315965888/_o_JCB7RI.png)
-
 In this case, we can pass a string containing digits i.e. characters from 0–9 or a floating-point value.
 
 **Note:** *If we pass a string that has any other character other than 0–9 it will throw an error.*
 
 The int() function can be used by passing two arguments also.
 
+![Error](https://cdn.hashnode.com/res/hashnode/image/upload/v1611315965888/_o_JCB7RI.png "Error Output" )
 
 > 
 Syntax:
