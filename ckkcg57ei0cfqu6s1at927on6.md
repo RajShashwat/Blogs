@@ -1,4 +1,4 @@
-## Why learn Python in 2021?
+## Why learn Python in 2021? (Features of Python)
 
 If you are planning to learn to code & enter the **DEVCommunity** then I suggest you go with **Python.**
 
